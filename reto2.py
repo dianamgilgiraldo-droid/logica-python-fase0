@@ -1,3 +1,5 @@
+#Estructuras condicionales
+
 calificacion = 85
 
 if calificacion >= 60:

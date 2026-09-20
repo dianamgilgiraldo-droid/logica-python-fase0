@@ -1,3 +1,5 @@
+#Variables y tipos de datos 
+
 # Definimos nuestras variables
 nombre = "Diana"
 edad = 25
