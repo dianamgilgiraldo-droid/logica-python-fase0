@@ -36,9 +36,19 @@ def agregar_canciones():
         if cancion == 'X':
             #Dejar de agregar canciones, se cambia bandera a false para salir del bucle 
             #Agregar elementos a una lista .append()
+            agregar_cancion = False
             print('Fianlizado...')
+
+            #Mostrar resumen de la playlist
+            mostrar_resumen()
         else:
             #Agregar las canciones a la playlist
             playlist['canciones'].append(cancion)
 
+def mostrar_resumen():
+    nombre_playlist = playlist['nombre']
+    print(f'Playlist: {nombre_playlist} \r\n')
+    print('Canciones: \r\n')
+    for canciones in playlist['canciones']:
+        print(canciones)
 app()
