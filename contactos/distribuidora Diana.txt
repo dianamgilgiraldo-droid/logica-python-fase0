@@ -1,0 +1,3 @@
+Nombre: distribuidora Diana
+Telefono: 123456123
+Categoria: proveedor

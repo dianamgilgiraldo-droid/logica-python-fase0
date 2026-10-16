@@ -1,0 +1,3 @@
+Nombre: distribuidora camila
+Telefono: 363636
+Categoria: proveedor

@@ -1,0 +1,3 @@
+Nombre: juan
+Nombre: 36363636
+Nombre: proveedor
